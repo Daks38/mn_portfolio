@@ -1,0 +1,35 @@
+.contact {
+  margin: 30px 0;
+  background-color: #d5d8dc;
+  display: flex;
+  flex-direction: column;
+  border-radius: 1em;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  width: 50%;
+
+  position: relative;
+  left: 25%;
+  h1 {
+    color: #5dade2;
+  }
+
+  section {
+    background-color: #f4d03f;
+    opacity: 0.8;
+    border-radius: 1em;
+    margin: 0.5em;
+  }
+
+  li {
+    list-style-type: none;
+  }
+  a {
+  }
+  img {
+    width: auto;
+    height: 2em;
+  }
+  p {
+    color: #2e4053;
+  }
+}

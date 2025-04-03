@@ -1,0 +1,25 @@
+.home {
+  display: flex;
+  background-color: #d5d8dc;
+  margin-bottom: 2em;
+  border-radius: 1em;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  h1 {
+    color: #5dade2;
+  }
+  section {
+    background-image: url("../../img/projet2.jpg");
+    background-position: center;
+  }
+  img {
+    width: 70%;
+    margin-top: 2em;
+    border-radius: 4em;
+  }
+  p {
+    color: #2e4053;
+  }
+  @media screen and (max-width: 800px) {
+    flex-direction: column;
+  }
+}

@@ -1,0 +1,11 @@
+@import "./_settings.css";
+@import "./components/_navigation.css";
+@import "./components/_home.css";
+@import "./components/_notfound.css";
+@import "./components/_contact.css";
+@import "./components/_apropos.css";
+@import "./components/_certification.css";
+@import "./components/skills.css";
+@import "./components/_academic_projects.css";
+@import "./components/_pieds.css";
+@import "./components/tete.css";

@@ -1,0 +1,19 @@
+.pieds {
+  background-color: #d5d8dc;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  li {
+    list-style-type: none;
+  }
+  a {
+    color: #48c9b0;
+  }
+  a:hover {
+    color: #5dade2;
+  }
+  a:visited {
+    text-decoration: underline;
+  }
+  a:focus {
+    background-color: black;
+  }
+}

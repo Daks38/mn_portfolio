@@ -1,0 +1,52 @@
+.about {
+  margin: 30px 0;
+  display: flex;
+  flex-wrap: nowrap;
+  background-image: url("../../img/apropos.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  padding: 0.5em;
+
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  .presenter {
+    border-radius: 2em;
+    background-color: #d5d8dc;
+    margin: 1em;
+    padding: 1em;
+  }
+  .competences {
+    border-radius: 2em;
+    background-color: #d5d8dc;
+    margin: 1em;
+    padding: 1em;
+  }
+  .objectif {
+    border-radius: 2em;
+    background-color: #d5d8dc;
+    padding: 1em;
+    margin: 1em;
+  }
+  h2 {
+    color: #5dade2;
+  }
+  p {
+    width: 18em;
+    font-weight: lighter;
+    font-size: large;
+    color: #2e4053;
+  }
+  @media screen and (max-width: 800px) {
+    flex-direction: column;
+    p {
+      width: auto;
+      margin: 0 auto;
+      padding: 2em;
+      font-weight: lighter;
+
+      color: #2e4053;
+    }
+    section {
+      margin: 1em;
+    }
+  }
+}
