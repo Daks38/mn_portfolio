@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/mn_portfolio/static/css/main.10e1fe2e.css",
+    "main.js": "/mn_portfolio/static/js/main.6b9fb66a.js",
+    "static/js/453.88267aed.chunk.js": "/mn_portfolio/static/js/453.88267aed.chunk.js",
+    "static/media/projet.jpg": "/mn_portfolio/static/media/projet.025ac6ba9ebdef5a2737.jpg",
+    "static/media/accueil.png": "/mn_portfolio/static/media/accueil.8218c15dcdb0fbe6b211.png",
+    "static/media/erreur.jpg": "/mn_portfolio/static/media/erreur.0bb4fa3fd841a5efb9d3.jpg",
+    "static/media/competences.jpg": "/mn_portfolio/static/media/competences.9358e07648941413b184.jpg",
+    "static/media/apropos.jpg": "/mn_portfolio/static/media/apropos.fb990ef5c0b4e02e68c3.jpg",
+    "static/media/dev1.png": "/mn_portfolio/static/media/dev1.bc1c4ca075c5a045c4b1.png",
+    "static/media/dev2.png": "/mn_portfolio/static/media/dev2.6537cf1548520771d262.png",
+    "static/media/projet2.jpg": "/mn_portfolio/static/media/projet2.bd9eea4064e2ec753514.jpg",
+    "static/media/dev4.png": "/mn_portfolio/static/media/dev4.37a2f145edc5e3fbc1c9.png",
+    "static/media/dev5.png": "/mn_portfolio/static/media/dev5.3ff104b5f1ab0e4f2ff9.png",
+    "static/media/ma_photo.jpg": "/mn_portfolio/static/media/ma_photo.49449964f387a2dea59a.jpg",
+    "static/media/TDB.png": "/mn_portfolio/static/media/TDB.dfd02002a9bc604026a9.png",
+    "static/media/evolution.png": "/mn_portfolio/static/media/evolution.da14c656dfebca0409d2.png",
+    "static/media/analyse.png": "/mn_portfolio/static/media/analyse.bffc7a9327dbcf0f6b96.png",
+    "static/media/certificat.png": "/mn_portfolio/static/media/certificat.a63ddb9c83e7b0da5808.png",
+    "static/media/données.png": "/mn_portfolio/static/media/données.32716496170cefa87427.png",
+    "static/media/calculs.png": "/mn_portfolio/static/media/calculs.e44ad1f1f06a0066d63e.png",
+    "static/media/dev3.png": "/mn_portfolio/static/media/dev3.75c4ddd69f777edf252c.png",
+    "static/media/dev6.png": "/mn_portfolio/static/media/dev6.0970d2b2136f42ebe8ab.png",
+    "static/media/what.png": "/mn_portfolio/static/media/what.11ac6e5b9dc0a59b06ff.png",
+    "static/media/gmail.png": "/mn_portfolio/static/media/gmail.31942062fe36bd6a4c71.png",
+    "index.html": "/mn_portfolio/index.html",
+    "main.10e1fe2e.css.map": "/mn_portfolio/static/css/main.10e1fe2e.css.map",
+    "main.6b9fb66a.js.map": "/mn_portfolio/static/js/main.6b9fb66a.js.map",
+    "453.88267aed.chunk.js.map": "/mn_portfolio/static/js/453.88267aed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10e1fe2e.css",
+    "static/js/main.6b9fb66a.js"
+  ]
+}
