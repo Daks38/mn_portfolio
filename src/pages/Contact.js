@@ -5,7 +5,7 @@ import whatsapp from "../img/what.png";
 
 const Contact = () => {
   return (
-    <div className="contact" id="debut">
+    <div className="contact">
       <h1>Contactez moi!</h1>
       <section>
         <p>07 79 39 42 18</p>

@@ -3,7 +3,7 @@ import ma_photo from "../photo/ma_photo.jpg";
 
 const Home = () => {
   return (
-    <div className="home" id="debut">
+    <div className="home">
       <h1>Bienvenue sur ma page d'accueil</h1>
       <section>
         <img src={ma_photo} alt="Ma photo" />

@@ -3,7 +3,7 @@ import certif from "../img/certificat.png";
 
 const Certifications = () => {
   return (
-    <div className="certifications" id="debut">
+    <div className="certifications">
       <h1>Mes certificats</h1>
       <div>
         <img src={certif} alt="certif" />

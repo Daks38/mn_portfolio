@@ -8,4 +8,5 @@
 @import "./components/skills.css";
 @import "./components/_academic_projects.css";
 @import "./components/_pieds.css";
-@import "./components/tete.css";
+@import "./components/_tete.css";
+@import "./components/_haut.css";
