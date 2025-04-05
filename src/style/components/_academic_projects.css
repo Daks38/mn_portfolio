@@ -18,6 +18,7 @@
     background-color: #d5d8dc;
     border-radius: 2em;
     margin-right: 0.5em;
+    text-align: center;
   }
   div {
     background-size: cover;
@@ -28,13 +29,21 @@
     width: 14em;
     margin: 0.5em;
   }
+  ul {
+    margin: auto;
+    list-style-type: none;
+  }
   li {
     color: #2e4053;
     padding: 1em;
-    margin: 0 auto;
-    list-style-type: circle;
-    list-style-position: inside;
+    text-align: center;
     font-weight: lighter;
+  }
+  .valider {
+    width: 0.8em;
+    height: 0.8em;
+    padding-right: 1em;
+    margin: auto;
   }
   @media screen and (max-width: 800px) {
     flex-direction: column;

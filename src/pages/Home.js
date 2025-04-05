@@ -1,5 +1,7 @@
 import React from "react";
+import { Link } from "react-router-dom";
 import ma_photo from "../photo/ma_photo.jpg";
+
 const Home = () => {
   return (
     <div className="home">

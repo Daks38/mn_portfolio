@@ -1,5 +1,6 @@
 import React from "react";
 import competence from "../img/competences.jpg";
+import valider from "../icons/valider.png";
 
 const Skills = () => {
   return (
@@ -9,43 +10,43 @@ const Skills = () => {
       <section>
         <img src={competence} alt="competence" />
         <ul className="data_analyse">
-          <p>Collecte et extraction de données</p>
-          <p>Traitement et transformation de données</p>
-          <p>
+          <li>Collecte et extraction de données</li>
+          <li>Traitement et transformation de données</li>
+          <li>
             Conception et réalisation de tableaux de bord visuels pour suivre
             les performances des ventes et analyser les tendances.
-          </p>
-          <p> Création des rapports interactifs.</p>
-          <p>
+          </li>
+          <li>Création des rapports interactifs.</li>
+          <li>
             Utilisation de DAX pour calculer des métriques clés et des
             indicateurs de performances.
-          </p>
+          </li>
         </ul>
         <ul className="devweb">
-          <p>
+          <li>
             Conception de l’architecture de l’aplication en utilisant les
             technologies telles que HTML, CSS, JavaScript, PHP.
-          </p>
-          <p>
+          </li>
+          <li>
             Création d’une interface Utilisateur intuitive et responsive pour
             différents appareils.
-          </p>
-          <p>
+          </li>
+          <li>
             Mise en place de systèmes d’inscription, connexion et gestion de
             profils utilisateurs.
-          </p>
-          <p>
+          </li>
+          <li>
             Développement d’outils permettant aux artisans de publier et gérer
             leurs services et aux clients de laisser des avis.
-          </p>
-          <p>Visual Studio Code</p>
-          <p>React.js developpement Front-End interface utipsateur.</p>
+          </li>
+          <li>Visual Studio Code</li>
+          <li>React.js developpement Front-End interface utipsateur.</li>
         </ul>
         <ul className="perso">
-          <p>Travail en équipe</p>
-          <p>Gestion du temps</p>
-          <p>Communication efficace</p>
-          <p>Adaptabipté aux outils numériques et logiciels métiers</p>
+          <li>Travail en équipe</li>
+          <li>Gestion du temps</li>
+          <li>Communication efficace</li>
+          <li>Adaptabipté aux outils numériques et logiciels métiers</li>
         </ul>
       </section>
     </div>

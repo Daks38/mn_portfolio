@@ -7,8 +7,15 @@
   }
   section {
     display: flex;
-    padding: 1em;
+    padding: 0.5em;
     height: 50%;
+  }
+  ul {
+    text-align: center;
+  }
+  li {
+    text-align: center;
+    margin: 1em;
   }
   img {
     width: 30%;

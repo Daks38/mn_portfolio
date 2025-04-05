@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 import test from "../photo/ma_photo.jpg";
 import accueil from "../img-projets/Data_analyste/accueil.png";
 import tdb from "../img-projets/Data_analyste/TDB.png";
@@ -12,6 +13,7 @@ import dev3 from "../img-projets/Dev_web/dev3.png";
 import dev4 from "../img-projets/Dev_web/dev4.png";
 import dev5 from "../img-projets/Dev_web/dev5.png";
 import dev6 from "../img-projets/Dev_web/dev6.png";
+import valider from "../icons/valider.png";
 
 const Academic_projects = () => {
   return (
@@ -31,15 +33,21 @@ const Academic_projects = () => {
         </div>
         <ul>
           <li>
+            <img src={valider} alt="Valider" className="valider" />
             Conception et réalisation d'un projet Power BI pour analyser les
             données de vente en détail
           </li>
           <li>
+            <img src={valider} alt="Valider" className="valider" />
             Conception et réalisation de aux de bord visuels pour suivre les
             performances des ventes et analyser les tendances.
           </li>
-          <li> Création des rapports interactifs.</li>
           <li>
+            <img src={valider} alt="Valider" className="valider" /> Création des
+            rapports interactifs.
+          </li>
+          <li>
+            <img src={valider} alt="Valider" className="valider" />
             Utilisation de DAX pour calculer des métriques clés et des
             indicateurs de performances.
           </li>
@@ -60,22 +68,27 @@ const Academic_projects = () => {
         </div>
         <ul>
           <li>
+            <img src={valider} alt="Valider" className="valider" />
             Elaboration d’une application web pour la promotion des métiers
             artisanaux en Côte d’Ivoire.
           </li>
           <li>
+            <img src={valider} alt="Valider" className="valider" />
             Conception de l’architecture de l’application en utilisant les
             technologies telles que HTML, CSS, JavaScript, PHP.
           </li>
           <li>
+            <img src={valider} alt="Valider" className="valider" />
             Création d’une interface Utilisateur intuitive et responsive pour
             différents appareils.
           </li>
           <li>
+            <img src={valider} alt="Valider" className="valider" />
             Mise en place de systèmes d’inscription, connexion et gestion de
             profils utilisateurs.
           </li>
           <li>
+            <img src={valider} alt="Valider" className="valider" />
             Développement d’outils permettant aux artisans de publier et gérer
             leurs services et aux clients de laisser des avis.
           </li>

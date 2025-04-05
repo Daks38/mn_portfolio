@@ -1,5 +1,14 @@
 import React from "react";
-import apropos from "../img/apropos.jpg";
+import excel from "../icons/excel.png";
+import sql from "../icons/sql.png";
+import wp from "../icons/wordpress.png";
+import html from "../icons/HTML-CSS.png";
+import vscode from "../icons/vscode.png";
+import pbi from "../icons/power bi.png";
+import react from "../icons/react.png";
+import php from "../icons/php.png";
+import bootstrap from "../icons/bootstrap.png";
+import git from "../icons/git.png";
 
 const About = () => {
   return (
@@ -20,25 +29,71 @@ const About = () => {
 
       <section className="competences">
         <h2>Compétences</h2>
+        <table>
+          <tr>
+            <td>
+              <img src={excel} alt="Excel" />
+              Microsoft Word et Excel avancé
+            </td>
+            <td>
+              <img src={pbi} alt="Power BI" />
+              Power BI
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <img src={sql} alt="SQL" />
+              SQL
+            </td>
+            <td>
+              <img src={react} alt="React" />
+              React.js
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <img src={wp} alt="WordPress" />
+              Wordpress
+            </td>
+            <td>
+              <img src={php} alt="PHP" />
+              PHP
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <img src={html} alt="HTML/CSS" />
+              HTML/CSS
+            </td>
+            <td>
+              <img src={bootstrap} alt="Bootstrap" />
+              Bootstrap
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <img src={vscode} alt="VScode" />
+              Visual Studio Code
+            </td>
+            <td>
+              <img src={git} alt="Git" />
+              Versioning de projet
+            </td>
+          </tr>
+          <tr>
+            <td>Esprit critique et résolution de problèmes</td>
+            <td>Travail d'équipe et collaboration</td>
+          </tr>
+          <tr>
+            <td>Adaptabilité</td>
+            <td>Patience et persévérance</td>
+          </tr>
+          <tr>
+            <td>Communication</td>
 
-        <ul>
-          <p>Microsoft Word et Excel avancé</p>
-          <p>Power BI</p>
-          <p>SQL</p>
-          <p>React.js(Front-End)</p>
-          <p>Wordpress</p>
-          <p>PHP</p>
-          <p>HTML/CSS</p>
-          <p>Bootstrap</p>
-          <p>Visual Studio Code</p>
-        </ul>
-        <ul>
-          <p>Communication</p>
-          <p>Esprit critique et résolution de problèmes</p>
-          <p>Travail d'équipe et collaboration</p>
-          <p>Adaptabilité</p>
-          <p>Patience et persévérance</p>
-        </ul>
+            <td></td>
+          </tr>
+        </table>
       </section>
       <section className="objectif">
         <h2>Mon Objectif</h2>

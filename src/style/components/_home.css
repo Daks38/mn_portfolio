@@ -10,6 +10,8 @@
   section {
     background-image: url("../../img/projet2.jpg");
     background-position: center;
+    margin-bottom: 1em;
+    text-align: center;
   }
   img {
     width: 70%;
