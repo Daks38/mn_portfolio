@@ -4,7 +4,7 @@ import valider from "../icons/valider.png";
 
 const Skills = () => {
   return (
-    <div className="skills">
+    <div className="skills" id="debut">
       <h1>Mes Compétences</h1>
 
       <section>

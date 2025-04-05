@@ -3,7 +3,7 @@ import erreur from "../img/erreur.jpg";
 
 const NotFound = () => {
   return (
-    <div className="notfound">
+    <div className="notfound" id="debut">
       <img src={erreur} alt="erreur" />
     </div>
   );

@@ -17,7 +17,7 @@ import valider from "../icons/valider.png";
 
 const Academic_projects = () => {
   return (
-    <div className="academic_projects">
+    <div className="academic_projects" id="debut">
       <h1>Mes Projets académiques</h1>
       <section>
         <h3>Analyse de Données -Projet final</h3>

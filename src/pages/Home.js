@@ -1,10 +1,9 @@
 import React from "react";
-import { Link } from "react-router-dom";
 import ma_photo from "../photo/ma_photo.jpg";
 
 const Home = () => {
   return (
-    <div className="home">
+    <div className="home" id="debut">
       <h1>Bienvenue sur ma page d'accueil</h1>
       <section>
         <img src={ma_photo} alt="Ma photo" />

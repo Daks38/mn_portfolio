@@ -38,6 +38,7 @@
     div {
       flex-direction: column;
       text-align: center;
+      padding: 0;
     }
     img {
       align-self: center;
@@ -46,7 +47,7 @@
       border-radius: 2em;
     }
     a {
-      margin-left: 0;
+      margin-right: 0;
       margin: auto;
     }
   }

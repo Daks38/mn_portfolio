@@ -9,6 +9,7 @@ import NotFound from "./pages/NotFound";
 import Navigation from "./components/Navigation";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
+import Haut from "./components/Haut";
 function App() {
   return (
     <div className="App">
@@ -23,6 +24,7 @@ function App() {
         <Route path="/contact" element={<Contact />} />
         <Route path="*" element={<NotFound />} />
       </Routes>
+      <Haut />
       <Navigation />
       <Footer />
     </div>

@@ -10,25 +10,22 @@
   .presenter {
     border-radius: 2em;
     background-color: #d5d8dc;
-    margin: 1em;
+    margin: 0.5em;
     padding: 0.2em;
   }
   .competences {
     border-radius: 2em;
     background-color: #d5d8dc;
     padding: 0.2em;
-    margin: 1em;
+    margin: 0.5em;
     text-align: center;
   }
   table {
-    width: 100%;
     margin: auto;
-    padding: 2em;
-  }
-  tr {
+    padding: 1em;
   }
   td {
-    width: 3em;
+    width: 2em;
     padding: 1.5em;
   }
   img {
@@ -39,8 +36,8 @@
   .objectif {
     border-radius: 2em;
     background-color: #d5d8dc;
-    padding: 1em;
-    margin: 1em;
+    padding: 0.2em;
+    margin: 0.5em;
   }
   h2 {
     color: #5dade2;
@@ -61,7 +58,14 @@
       color: #2e4053;
     }
     section {
-      margin: 1em;
+      border: 1px solid green;
+    }
+    table {
+      width: auto;
+      padding: 0;
+    }
+    td {
+      padding: 0.5em;
     }
   }
 }

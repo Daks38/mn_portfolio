@@ -8,14 +8,10 @@
   section {
     display: flex;
     padding: 0.5em;
-    height: 50%;
-  }
-  ul {
-    text-align: center;
+    height: auto;
   }
   li {
-    text-align: center;
-    margin: 1em;
+    margin: 1em auto;
   }
   img {
     width: 30%;
@@ -34,6 +30,15 @@
     img {
       align-self: center;
       width: 100%;
+    }
+    ul {
+      text-align: center;
+      padding: 0;
+    }
+    li {
+      padding: 2em;
+      margin: 0.8em auto;
+      list-style-type: none;
     }
   }
 }

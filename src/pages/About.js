@@ -12,7 +12,7 @@ import git from "../icons/git.png";
 
 const About = () => {
   return (
-    <div className="about">
+    <div className="about" id="debut">
       <section className="presenter">
         <h2>À propos de moi</h2>
 
