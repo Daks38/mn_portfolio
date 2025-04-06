@@ -35,12 +35,8 @@ const Skills = () => {
             Mise en place de systèmes d’inscription, connexion et gestion de
             profils utilisateurs.
           </li>
-          <li>
-            Développement d’outils permettant aux artisans de publier et gérer
-            leurs services et aux clients de laisser des avis.
-          </li>
           <li>Visual Studio Code</li>
-          <li>React.js developpement Front-End interface utilisateur.</li>
+          <li>React.js</li>
         </ul>
         <ul className="perso">
           <li>Travail en équipe</li>
