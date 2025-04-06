@@ -5,6 +5,7 @@
   background-image: url("../../img/apropos.jpg");
   background-position: center;
   background-repeat: no-repeat;
+  text-align: center;
 
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   .presenter {
@@ -19,6 +20,7 @@
     padding: 0.2em;
     margin: 0.5em;
     text-align: center;
+    font-weight: lighter;
   }
   table {
     margin: auto;
@@ -54,11 +56,10 @@
       width: auto;
       margin: auto;
       padding: 1em;
-      font-weight: lighter;
       color: #2e4053;
+      font-weight: normal;
     }
     section {
-      border: 1px solid green;
     }
     table {
       width: auto;

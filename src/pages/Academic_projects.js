@@ -57,7 +57,7 @@ const Academic_projects = () => {
       <section>
         <h3>Développeur Web – Projet Collectif Tuteuré</h3>
         <h5>Université Virtuelle de Côte d’Ivoire</h5>
-        <h5>Avril 2024 – Août 2024</h5>
+        <h5>Avril 2024 - Août 2024</h5>
         <div>
           <img src={dev1} alt="dev1" />
           <img src={dev2} alt="dev2" />

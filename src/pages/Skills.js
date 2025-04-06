@@ -40,7 +40,7 @@ const Skills = () => {
             leurs services et aux clients de laisser des avis.
           </li>
           <li>Visual Studio Code</li>
-          <li>React.js developpement Front-End interface utipsateur.</li>
+          <li>React.js developpement Front-End interface utilisateur.</li>
         </ul>
         <ul className="perso">
           <li>Travail en équipe</li>

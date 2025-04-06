@@ -11,7 +11,9 @@
     height: auto;
   }
   li {
-    margin: 1em auto;
+    margin: 0.5em auto;
+    color: #2e4053;
+    font-weight: lighter;
   }
   img {
     width: 30%;
@@ -19,9 +21,6 @@
     position: relative;
     bottom: 1.5em;
     border-radius: 1em;
-  }
-  p {
-    color: #2e4053;
   }
   @media screen and (max-width: 800px) {
     section {
@@ -36,9 +35,10 @@
       padding: 0;
     }
     li {
-      padding: 2em;
-      margin: 0.8em auto;
+      padding: 0.5em;
+      margin: 0 auto;
       list-style-type: none;
+      font-weight: normal;
     }
   }
 }
